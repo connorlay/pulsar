@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+docker-compose up --build --scale app=3

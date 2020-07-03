@@ -1,0 +1,7 @@
+%{
+  "highlander": {:hex, :highlander, "0.2.0", "216b5cd86caef45fe219462e8906ad3e23d47d517d213777f17c3425ce2e4e4b", [:mix], [], "hexpm", "343f0588f5bf5afa492e94f0017284bdad8b0066634f2a50b5f0c222f0404820"},
+  "jason": {:hex, :jason, "1.2.1", "12b22825e22f468c02eb3e4b9985f3d0cb8dc40b9bd704730efa11abd2708c44", [:mix], [{:decimal, "~> 1.0", [hex: :decimal, repo: "hexpm", optional: true]}], "hexpm", "b659b8571deedf60f79c5a608e15414085fa141344e2716fbd6988a084b5f993"},
+  "libcluster": {:hex, :libcluster, "3.2.1", "b2cd5b447cde25d5897749bee6f7aaeb6c96ac379481024e9b6ba495dabeb97d", [:mix], [{:jason, "~> 1.1", [hex: :jason, repo: "hexpm", optional: false]}], "hexpm", "89f225612d135edce9def56f43bf18d575d88ac4680e3f6161283f2e55cadca4"},
+  "parent": {:hex, :parent, "0.9.0", "bab1af15dcf857dbedd7fa4bd458f4322d9ab22d53b2760f4a7c945a2593e0a2", [:mix], [{:telemetry, "~> 0.4", [hex: :telemetry, repo: "hexpm", optional: false]}], "hexpm", "40a47770a15147d6edb561dd7558114ae77b0fdfe08a1b6437f010c6ab4a5fc2"},
+  "telemetry": {:hex, :telemetry, "0.4.2", "2808c992455e08d6177322f14d3bdb6b625fbcfd233a73505870d8738a2f4599", [:rebar3], [], "hexpm", "2d1419bd9dda6a206d7b5852179511722e2b18812310d304620c7bd92a13fcef"},
+}
